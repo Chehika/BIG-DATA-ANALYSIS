@@ -61,9 +61,8 @@ This project shows how powerful tools like PySpark, along with Python’s visual
 
 ## Outputs
 
-![Image](https://github.com/user-attachments/assets/93990cde-1657-46ba-88f1-78e88d21b1a2)
+![Image](https://github.com/user-attachments/assets/22088c2c-751c-4daf-9382-54732174e43b)
 
-![Image](https://github.com/user-attachments/assets/a2f45a6a-4a34-4788-ae58-6bd8ab2f7ec9)
+![Image](https://github.com/user-attachments/assets/29a18246-574b-49d4-b62d-2f00bc66cc99)
 
-![Image](https://github.com/user-attachments/assets/5b154788-bae8-4104-b228-32b2fb8337f0)
-
+![Image](https://github.com/user-attachments/assets/698d381f-44e3-4aa1-901a-abf166668188)
