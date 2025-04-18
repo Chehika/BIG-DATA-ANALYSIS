@@ -59,6 +59,13 @@ Big Data Education: This project is an excellent illustration of distributed com
 
 This project shows how powerful tools like PySpark, along with Python’s visualization libraries and a cloud platform like Google Colab, can work together to explore music streaming trends in a meaningful way. It’s a great example of how data science and big data tools can be applied in real-world industries like entertainment and tech to uncover valuable insights.
 
+## Outputs
+
+![Image](https://github.com/user-attachments/assets/7b2a3701-69b3-4f98-9cc9-87719ef1f78
+
+![Image](https://github.com/user-attachments/assets/df0a77f1-d5ba-487b-955d-2857456818fe)
+
+![Image](https://github.com/user-attachments/assets/729c90eb-0a84-4a53-a5c5-1bf0186b2549)
 
 
 
