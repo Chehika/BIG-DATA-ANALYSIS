@@ -31,7 +31,7 @@ For the smooth conversion of Spark Dataframes into Pandas Dataframes, which faci
 Matplotlib and Seaborn:
 This are the most widely-used libraies in python for data visualization.Helped in genrating clear and visually appealing plots that helped in interpreting and presenting the insights derived from the data.
 
-##Task Description: Analyzed Spotify streaming data using PySpark and visualization libraries.
+## Task Description: Analyzed Spotify streaming data using PySpark and visualization libraries.
 
 Steps:
 
