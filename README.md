@@ -1,21 +1,8 @@
-# BIG-DATA-ANALYSIS
-COMPANY- CODTECH IT SOLUTION
-
-NAME- Chehika Chhipa
-
-INTERN ID- CT04DA653
-
-DOMAIN- DATA ANALYTICS
-
-DURATION- 4 WEEKS
-
-MENTOR- NEELA SANTOSH
-
 # Big Data Anaylsis On Spotify Dataset Using PySpark
 
 ## Overview
 
-During my internship at CodTech, I had the opportunity to work on a data anaylsis project using a sample spotify dataset. The main goal of this task was to show that i could handle large datasets and use tools that are built for working with big data . I used python along with pyspark, and completed the entire project using Google Colab.
+I worked on a data analysis project using a sample Spotify dataset, focusing on processing and analyzing large-scale data efficiently. The project involved leveraging Python and PySpark for big data handling, with the entire workflow implemented on Google Colab.
 
 ## Tools utilized
 Python: With its ease of use, adaptability, and vast library, Python was the main language. For effective data manipulation and analysis, I made use of well-known libraries like Pandas and Numpy.
